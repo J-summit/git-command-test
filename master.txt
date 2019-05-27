@@ -2,3 +2,4 @@ master
 dev
 test
 test1
+test2
